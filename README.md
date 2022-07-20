@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou em busca do meu primeiro emprego na área tech em Full-Stack, Back-End ou Front-End
-- 🌱 Estou estudando JavaScript, NodeJs, HMLT, CSS, React, PHP, Laravel.
+- 🌱 Estou estudando JavaScript, NodeJs, HMLT, CSS, React, Typescript
 - 📫 Contate-me no e-mail: luanaretifica@hotmail.com
 - 😄 Pronomes: ela/dela
 
