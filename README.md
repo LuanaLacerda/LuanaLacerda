@@ -7,23 +7,27 @@
 - 📫 Contate-me: luanalacerdarca@gmail.com
 
 ---
+---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Toolbox Tecnológica
 
-#### 💻 Desenvolvimento Web (Background)
-[![JavaScript](https://img.shields.io)](https://developer.mozilla.org)
-[![NodeJS](https://img.shields.io)](https://nodejs.org)
-[![PostgreSQL](https://img.shields.io)](https://www.postgresql.org)
 
-#### 📊 Análise de Dados (Foco Atual)
-[![Python](https://img.shields.io)](https://www.python.org)
-[![Pandas](https://img.shields.io)](https://pandas.pydata.org)
-[![Power BI](https://img.shields.io)](https://powerbi.microsoft.com)
+| 💻 Desenvolvimento Web (Background) | 📊 Análise de Dados (Foco Atual) |
+| :--- | :--- |
+| • **JavaScript** (ES6+ / Lógica) | • **Python** (Pandas / Automação) |
+| • **Node.js** (APIs / Back-end) | • **SQL** (PostgreSQL / Insights) |
+| • **React** (Interfaces Dinâmicas) | • **Power BI** (Dashboards / KPIs) |
+| • **Bancos de Dados Relacionais** | •  **Excel** (Análise de Indicadores) |
 
 ---
 
-### 📫 Contato e Redes
-[![LinkedIn](https://img.shields.io)](https://www.linkedin.com)
+### 📫 Vamos nos conectar?
+
+*   💼 **LinkedIn:** [Clique aqui para acessar meu perfil](https://www.linkedin.com/in/luana-lacerda/)
+*   📧 **E-mail:** [luanalacerdarca@gmail.com](mailto:luanalacerdarca@gmail.com)
+
+
+
 
 
 
