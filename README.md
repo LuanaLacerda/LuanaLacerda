@@ -11,20 +11,20 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 #### 💻 Desenvolvimento Web (Background)
-![JavaScript](https://img.shields.io)
-![React](https://img.shields.io)
-![NodeJS](https://img.shields.io)
-![PostgreSQL](https://img.shields.io)
+[![JavaScript](https://img.shields.io)](https://developer.mozilla.org)
+[![NodeJS](https://img.shields.io)](https://nodejs.org)
+[![PostgreSQL](https://img.shields.io)](https://www.postgresql.org)
 
 #### 📊 Análise de Dados (Foco Atual)
-![Python](https://img.shields.io)
-![Pandas](https://img.shields.io)
-![Power Bi](https://img.shields.io)
+[![Python](https://img.shields.io)](https://www.python.org)
+[![Pandas](https://img.shields.io)](https://pandas.pydata.org)
+[![Power BI](https://img.shields.io)](https://powerbi.microsoft.com)
 
 ---
 
 ### 📫 Contato e Redes
 [![LinkedIn](https://img.shields.io)](https://www.linkedin.com)
+
 
 
 
