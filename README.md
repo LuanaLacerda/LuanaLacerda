@@ -10,18 +10,23 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-#### Linguagens e Frameworks (Dev)
+#### 💻 Desenvolvimento Web (Background)
 ![JavaScript](https://img.shields.io)
 ![React](https://img.shields.io)
 ![NodeJS](https://img.shields.io)
 ![PostgreSQL](https://img.shields.io)
 
-#### Foco em Dados (Estudando)
+#### 📊 Análise de Dados (Foco Atual)
 ![Python](https://img.shields.io)
 ![Pandas](https://img.shields.io)
 ![Power Bi](https://img.shields.io)
 
-[![LinkedIn](https://img.shields.io)][(https://www.linkedin.com](https://www.linkedin.com](https://www.linkedin.com/in/luana-lacerda))
+---
+
+### 📫 Contato e Redes
+[![LinkedIn](https://img.shields.io)](https://www.linkedin.com)
+
+
 
 
 
