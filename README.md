@@ -1,28 +1,39 @@
 ### Olá! Eu sou a Luana Lacerda 👋
 
+- 📊 **Representante de Negócios na Ambev** | Transicionando para a área de **Dados**
+- 🎓 Pós-graduanda em **Análise de Dados** pela [Descomplica](https://descomplica.com.br)
+- 💻 Background como **Desenvolvedora Web Full-Stack** ([Cubos Academy](https://cubos.academy))
+- 🌱 Atualmente aprofundando em **Python, SQL e Power BI**
+- 📫 Contate-me: luanalacerdarca@gmail.com
 
-- 🔭 Estou em busca do meu primeiro emprego na área tech em Full-Stack, Back-End ou Front-End
-- 🌱 Estou estudando JavaScript, NodeJs, HMLT, CSS, React, Typescript
-- 📫 Contate-me no e-mail: luanaretifica@hotmail.com
-- 😄 Pronomes: ela/dela
+---
 
-<div align="center">
-  <a href="https://github.com/LuanaLacerda">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuanaLacerda&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaLacerda&layout=compact&langs_count=7&theme=radical"/>
+### 🛠️ Tecnologias e Ferramentas
+
+#### Linguagens e Frameworks (Dev)
+<div style="display: inline_block">
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com">
+  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com">
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Luana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Luana-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />        
-  <img align="center" alt="Luana-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  <img align="center" alt="Luana-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-  <img align="center" alt="Luana-Node" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+#### Foco em Dados (Estudando)
+<div style="display: inline_block">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com">
+  <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com">
 </div>
 
- <div>
-    <a href="https://www.linkedin.com/in/luana-lacerda" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   
-  
-   
- </div>
+---
+
+<div align="left">
+  <a href="[https://www.linkedin.com](https://www.linkedin.com/in/luana-lacerda)" target="_blank">
+    <img src="https://img.shields.io">
+  </a>
+</div>
+
+
+
+
