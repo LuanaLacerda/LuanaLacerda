@@ -24,7 +24,7 @@
 ### 📫 Vamos nos conectar?
 
 *   💼 **LinkedIn:** [Clique aqui para acessar meu perfil](https://www.linkedin.com/in/luana-lacerda/)
-*   📧 **E-mail:** [luanalacerdarca@gmail.com](mailto:luanalacerdarca@gmail.com)
+
 
 
 
